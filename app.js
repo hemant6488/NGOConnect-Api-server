@@ -42,4 +42,4 @@ app.get('/pinboard/:id', stickies.detaild);
 app.get('/test', stickies.test);
  
 app.listen(port);
-console.log('Listening on port 3000...');
+console.log('Listening on pt 3000...');
